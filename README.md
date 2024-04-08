@@ -50,7 +50,7 @@ This project entails various data analysis tasks including data preparation, sum
 ### Correlation and Regression
 - Calculated the correlation coefficient between mouse weight and average observed tumor volume for the Capomulin regimen.
 - Fitted a linear regression model and plotted it on top of the scatter plot to visualize the relationship between mouse weight and tumor volume.
--![Scatter Plot with Regression](Pymaceuticals/images/regression.png)
+- ![Scatter Plot with Regression](Pymaceuticals/images/regression.png)
 
 ## Conclusion
 
