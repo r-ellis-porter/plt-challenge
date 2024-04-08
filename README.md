@@ -32,19 +32,25 @@ This project entails various data analysis tasks including data preparation, sum
 
 ### Visualization
 - Generated bar charts to display the total number of observed mouse timepoints for each drug regimen.
+![Bar Chart](Pymaceuticals/images/bar2.png)
 - Created pie charts to visualize the distribution of female versus male mice in the study.
+![Pie Chart](Pymaceuticals/images/pie2.png)
 
 ### Quartiles, Outliers, and Boxplots
 - Calculated quartiles and identified potential outliers for four treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin.
 - Plotted boxplots to visualize the distribution of final tumor volume for each treatment group, highlighting potential outliers.
+![Box Plot](Pymaceuticals/images/box.png)
 
 ### Line and Scatter Plots
 - Generated a line plot to visualize tumor volume vs. time point for a single mouse treated with Capomulin.
+![Line Plot](Pymaceuticals/images/line.png)
 - Created a scatter plot to display mouse weight vs. average observed tumor volume for the entire Capomulin regimen.
+![Scatter Plot](Pymaceuticals/images/scatter.png)
 
 ### Correlation and Regression
 - Calculated the correlation coefficient between mouse weight and average observed tumor volume for the Capomulin regimen.
 - Fitted a linear regression model and plotted it on top of the scatter plot to visualize the relationship between mouse weight and tumor volume.
+![Scatter Plot with Regression](Pymaceuticals/images/regression.png)
 
 ## Conclusion
 
